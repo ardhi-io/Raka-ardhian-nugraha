@@ -1,1 +1,0 @@
-# Raka-ardhian-nugraha
