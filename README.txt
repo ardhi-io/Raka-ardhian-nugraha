@@ -28,7 +28,7 @@ Catatan: browser tidak mengizinkan musik autoplay sebelum pengunjung berinteraks
 
 PERSONALISASI SEBELUM DIPUBLIKASIKAN
 - Cari hello@example.com di index.html lalu ganti dengan email Raka.
-- Ganti tautan Instagram, GitHub, dan LinkedIn yang masih href="#".
+- Ganti tautan Instagram, dan telegram yang masih href="#".
 - Ganti judul dan deskripsi tiga proyek contoh dengan proyek asli.
 - Isi tahun, detail pengalaman kerja (jika ingin), dan informasi lain sesuai fakta.
 - Cek kembali penyebutan program studi/STEI-K agar sesuai nama resmi yang ingin ditampilkan.
